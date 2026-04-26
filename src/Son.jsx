@@ -6,7 +6,7 @@ function Son({ count, setCount }) {
   return (
     <div className="flex items-center justify-center">
       <div className="flex items-center gap-3 rounded-lg border border-slate-200 bg-slate-50 p-3 shadow-sm">
-        <label className="font-medium text-slate-600">Count:</label>
+        <label className="font-medium text-slate-600">User:</label>
 
         <input
           type="number"
