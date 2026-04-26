@@ -8,7 +8,7 @@ return (
     {/* Header */}
     <header className="h-20 shrink-0 border-b border-slate-200 bg-white px-6 shadow-sm">
       <div className="flex h-full items-center justify-between gap-4">
-      <h1 className="text-xl font-bold text-slate-800">useEffect</h1>
+      <h1 className="text-xl font-bold text-slate-800">User Profile</h1>
       <Clock />
       </div>
     </header>
